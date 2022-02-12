@@ -93,6 +93,7 @@ const saveStudents = (student) => {
     fs.writeFileSync('students.json', saveStudent)
 }
 
+
 module.exports = {
     addStudent,
     removeStudent,

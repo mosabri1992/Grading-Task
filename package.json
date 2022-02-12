@@ -1,16 +1,16 @@
 {
-  "name": "grading-task",
-  "version": "1.0.0",
-  "description": "",
-  "main": "app.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
-  "dependencies": {
-    "validator": "^13.7.0",
-    "yargs": "^17.3.1"
-  }
+    "name": "grading-task",
+    "version": "1.0.0",
+    "description": "",
+    "main": "app.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "dependencies": {
+        "validator": "^13.7.0",
+        "yargs": "^17.3.1"
+    }
 }
